@@ -1,3 +1,6 @@
 * awesome-books
 ** System Design
+- <Designing Data-intense Application>
 - <The Engineering Design of Systems: Models and Methods>
+** Database
+- <Applied mathematics for database professionals by Lex de Haan, Toon Koppelaars>
