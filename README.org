@@ -1,6 +1,7 @@
 * awesome-books
 ** System Design
 - <Designing Data-intense Application>
+- <Streaming Systems: The What, Where, When, and How of Large-Scale Data Processing>
 - <The Engineering Design of Systems: Models and Methods>
 ** Database
 - <Applied mathematics for database professionals by Lex de Haan, Toon Koppelaars>
